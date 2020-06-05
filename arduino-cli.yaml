@@ -1,0 +1,11 @@
+board_manager:
+  additional_urls: []
+daemon:
+  port: "50051"
+logging:
+  file: ""
+  format: text
+  level: info
+telemetry:
+  addr: :9090
+  enabled: true
